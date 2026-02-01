@@ -19,16 +19,12 @@ export const featureColors = [
 
 // Pays avec liaisons disponibles
 export const destinations = [
-  { name: "France", flag: "🇫🇷" },
   { name: "Guinée (Conakry)", flag: "🇬🇳" },
+  { name: "France", flag: "🇫🇷" },
   { name: "États-Unis (New York)", flag: "🇺🇸" },
   { name: "Canada", flag: "🇨🇦" },
   { name: "Sénégal", flag: "🇸🇳" },
   { name: "Mali", flag: "🇲🇱" },
   { name: "Côte d'Ivoire", flag: "🇨🇮" },
-  { name: "Ghana", flag: "🇬🇭" },
-  { name: "Nigeria", flag: "🇳🇬" },
   { name: "Togo", flag: "🇹🇬" },
-  { name: "Benin", flag: "🇧🇯" },
-  { name: "Burkina Faso", flag: "🇧🇫" },
 ];

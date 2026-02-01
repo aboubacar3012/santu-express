@@ -284,7 +284,7 @@ export default function HomePage() {
       </section>
 
       {/* Annonces — hauteur fixe, scrollable */}
-      <div className="h-[70vh] min-h-[320px] overflow-y-auto border-t border-slate-200 bg-slate-50/60">
+      <div className=" border-t border-slate-200 bg-slate-50/60">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 py-5 sm:py-6">
           <section className="rounded-3xl bg-white shadow-sm ring-1 ring-slate-200/80 overflow-hidden">
             {/* En-tête + filtres */}
