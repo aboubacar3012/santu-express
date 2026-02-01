@@ -57,7 +57,8 @@ export default function ProvidersLayout({
       "/sign-up",
       "/",
       "/home",
-      "/academy", // L'academy est maintenant accessible sans authentification
+      "/client", // L'academy est maintenant accessible sans authentification
+      "/admin",
     ];
 
     // Normaliser le pathname en supprimant le slash final
